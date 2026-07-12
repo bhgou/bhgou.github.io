@@ -1,11 +1,10 @@
 ---
 title: Резюме
 ---
-# Швачкин Никита
+# Никита
 **Middle Unity Developer**
 
-- **Телефон:** +7 (952) 406-72-02
-- **Email:** bratihkintime@gmail.com
+- **Email:** nikitashvachkin@yandex.ru
 - **GitHub:** [github.com/bhgou](https://github.com/bhgou)
 - **Telegram:** [@bhgou](https://t.me/bhgou)
 - **Дата рождения:** 12 декабря 2007
