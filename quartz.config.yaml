@@ -216,7 +216,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/bhgou
-        Telegram: https://t.me/bhgou
+        Telegram: https://t.me/pupweb7
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

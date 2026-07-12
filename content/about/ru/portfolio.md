@@ -8,8 +8,8 @@ description: Портфолио Unity-разработчика
 **Никита | Unity Developer**
 
 **UTC+3 | 📍 Удаленно | Full-time / Part-time / Project-based**
-**✉️ Mail:** brati.1000@yandex.ru
-**💬 Telegram:** @bhgou
+**✉️ Mail:** nikitashvachkin@yandex.ru
+**💬 Telegram:** @pupweb7
 **🐙 GitHub:** github.com/bhgou
 **💼 Резюме:** [Резюме](resume) **|** [Vibecode проекты](vibecode)
 

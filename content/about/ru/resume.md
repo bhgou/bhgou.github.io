@@ -6,7 +6,7 @@ title: Резюме
 
 - **Email:** nikitashvachkin@yandex.ru
 - **GitHub:** [github.com/bhgou](https://github.com/bhgou)
-- **Telegram:** [@bhgou](https://t.me/bhgou)
+- **Telegram:** [@pupweb7](https://t.me/pupweb7)
 - **Дата рождения:** 12 декабря 2007
 - **Гражданство:** Россия
 - **Занятость:** полная / проектная, удалёнка / офис, без командировок

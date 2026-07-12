@@ -11,4 +11,4 @@ title: Главная
 -   [Портфолио](about/ru/portfolio)
 -   [Резюме](about/ru/resume)
 -   [GitHub](https://github.com/bhgou)
--   [Telegram](https://t.me/bhgou)
+-   [Telegram](https://t.me/pupweb7)
