@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Портфолио</title>
+      <link>https://bhgou.github.io</link>
+      <description>Last 10 notes on Портфолио</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>ru</title>
+    <link>https://bhgou.github.io/about/ru/</link>
+    <guid>https://bhgou.github.io/about/ru/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 12 Jul 2026 12:01:56 GMT</pubDate>
+  </item><item>
+    <title>about</title>
+    <link>https://bhgou.github.io/about/</link>
+    <guid>https://bhgou.github.io/about/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 12 Jul 2026 12:01:56 GMT</pubDate>
+  </item><item>
+    <title>Индекс тегов</title>
+    <link>https://bhgou.github.io/tags/</link>
+    <guid>https://bhgou.github.io/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 12 Jul 2026 12:01:56 GMT</pubDate>
+  </item><item>
+    <title>Портфолио</title>
+    <link>https://bhgou.github.io/about/ru/portfolio</link>
+    <guid>https://bhgou.github.io/about/ru/portfolio</guid>
+    <description><![CDATA[ Портфолио Unity-разработчика ]]></description>
+    <pubDate>Sun, 12 Jul 2026 11:56:27 GMT</pubDate>
+  </item><item>
+    <title>Резюме</title>
+    <link>https://bhgou.github.io/about/ru/resume</link>
+    <guid>https://bhgou.github.io/about/ru/resume</guid>
+    <description><![CDATA[ Резюме Портфолио Навыки Языки: C# Движки: Unity Инструменты: Git, Rider/VS, NavMesh, QuickOutline Платформы: Windows Опыт работы Unity Developer — Pet-проекты 2025 — настоящее время Разработка игр на Unity с нуля: геймплей, UI, AI, инвентарь, головоломки. ]]></description>
+    <pubDate>Sun, 12 Jul 2026 11:56:27 GMT</pubDate>
+  </item><item>
+    <title>Vibecode проекты</title>
+    <link>https://bhgou.github.io/about/ru/vibecode</link>
+    <guid>https://bhgou.github.io/about/ru/vibecode</guid>
+    <description><![CDATA[ Проекты, разработанные с помощью AI-инструментов ]]></description>
+    <pubDate>Sun, 12 Jul 2026 11:56:27 GMT</pubDate>
+  </item><item>
+    <title>Главная</title>
+    <link>https://bhgou.github.io/</link>
+    <guid>https://bhgou.github.io/</guid>
+    <description><![CDATA[ Привет! Я Владислав Unity Developer Я — разработчик игр на Unity. Специализируюсь на Core &amp; Gameplay программировании. ]]></description>
+    <pubDate>Sun, 12 Jul 2026 11:56:27 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
