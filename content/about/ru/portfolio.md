@@ -5,7 +5,7 @@ description: Портфолио Unity-разработчика
 
 # Портфолио
 
-**Владислав | Unity Developer**
+**Никита | Unity Developer**
 
 **UTC+3 | 📍 Удаленно | Full-time / Part-time / Project-based**
 **✉️ Mail:** brati.1000@yandex.ru
